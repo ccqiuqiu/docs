@@ -1,0 +1,1 @@
+const e={key:"v-81189da4",path:"/docs/qianxun/theme.html",title:"theme",lang:"zh-CN",frontmatter:{title:"theme",date:"2020/05/27"},excerpt:"",headers:[],git:{},filePathRelative:"docs/qianxun/theme.md"};export{e as data};

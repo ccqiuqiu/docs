@@ -1,0 +1,1 @@
+import{_ as t,o,c as n,b as e}from"./app.dc14592e.js";const _={},c=e("p",null,[e("strong",null,"\u54C8\u54C8\uFF0C\u5F00\u4E2A\u73A9\u7B11")],-1),s=[c];function a(r,l){return o(),n("div",null,s)}var f=t(_,[["render",a],["__file","donate.html.vue"]]);export{f as default};
