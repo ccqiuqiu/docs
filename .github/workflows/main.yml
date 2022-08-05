@@ -29,6 +29,7 @@ jobs:
           REPOSITORY_NAME: ccqiuqiu/ccqiuqiu.github.io
           BRANCH: master
           FOLDER: .vuepress/dist # npm run build 生成静态资源的路径
+
       # 3、同步到 gitee 的仓库
       - name: Sync to Gitee
         uses: wearerequired/git-mirror-action@master
